@@ -14,4 +14,4 @@ Possible configurations:
     "height": 600
 }
 
-![screenshot](https://amend.cz/youtube/youtube.png)
+![screenshot](https://amend.cz/youtube/youtube1.png)
