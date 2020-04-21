@@ -1,6 +1,6 @@
 # Youtube element
 
-This KC custom element allows you to add various types of youtube video url, it extracts the video id for your apps and shows the video.
+This KC custom element allows you to add various types of youtube video url, it extracts and __stores__ the video id for your apps and shows the video.
 
 ![screenshot](https://amend.cz/youtube/youtube2.png)
 
